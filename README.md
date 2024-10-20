@@ -10,14 +10,14 @@ A powerful collection of automation scripts designed for bug bounty hunters and 
 - **Vulnerability Scanners**: Find common security flaws across various platforms.
 - **Scalable**: Easily add your own scripts to the suite.
 - **Open-Source**: Contribute to the repository and help make it better.
-
+<!--<p>
 ## 🛠️ **Scripts Included**
 - **Recon.py**: Script for gathering subdomains, open ports, and services.
 - **XSS-Finder.py**: Automatically detect reflected XSS vulnerabilities.
 - **SQLi-Automation.py**: Exploit SQL injection vulnerabilities.
 - **SubdomainScanner.py**: Bruteforce subdomains and check DNS records.
 - **VulnScanner.py**: Scan for common vulnerabilities on the target.
-
+</p>-->
 More scripts coming soon!
 
 ## 📦 **Installation**
