@@ -9,7 +9,11 @@ The script sends a login request with each email from the provided list, using a
 - Automated email enumeration using POST requests.
 - Identifies valid and invalid email addresses based on the server's response.
 - Can be used for login page enumeration and brute-force attacks.
-
+---  
+### Bulk Emails
+```
+https://github.com/nyxgeek/username-lists/blob/master/usernames-top100/usernames_gmail.com.txt
+```
 ## **Usage**
 
 ### **1. Prerequisites**
