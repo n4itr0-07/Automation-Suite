@@ -3,7 +3,7 @@ import socket
 import pyfiglet
 
 
-ascii_banner = pyfiglet.figlet_format("TryHackMe \n Python 4 Pentesters \nPort Scanner")
+ascii_banner = pyfiglet.figlet_format("NAITRO \n Python 4 Pentesters \nPort Scanner")
 print(ascii_banner)
 
 
