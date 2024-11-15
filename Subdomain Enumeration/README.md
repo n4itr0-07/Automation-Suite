@@ -88,6 +88,8 @@ The output will look like this:
 
 Scan Complete! - Crafted by NAITRO 07
 ```
+![Screenshot 2024-11-15 110616](https://github.com/user-attachments/assets/2762e3f5-96ba-4123-9aa7-14119c79c197)
+
 
 - **Valid domains** appear in green.
 - **Invalid domains** appear in red.
