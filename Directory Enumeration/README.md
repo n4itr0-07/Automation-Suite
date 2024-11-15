@@ -1,7 +1,3 @@
-Here’s a README for your interactive Directory Enumerator script that provides clear instructions, usage examples, and expected output in a natural, user-friendly style.
-
----
-
 # Directory Enumerator by NAITRO 07
 
 ## Overview
@@ -92,6 +88,9 @@ Starting Directory Enumeration...
 
 Scan Complete! - Crafted by NAITRO 07
 ```
+
+![dir](https://github.com/user-attachments/assets/e8b23174-8397-4801-b679-cd073544c5d4)
+
 
 - **Valid directories** will be shown in green with `[+]` for easy identification.
 - **Not found directories** will be shown in red with `[-]` to indicate they’re missing.
