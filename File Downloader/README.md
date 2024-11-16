@@ -49,7 +49,7 @@ python file_downloader.py
 
 Here’s an example of how an interaction with the script might look:
 
-```plaintext
+```bash
 ==============================================
           File Downloader by NAITRO 07        
 ==============================================
@@ -70,6 +70,8 @@ Would you like to add another file? (yes/no): no
 
 All downloads complete! - Powered by NAITRO 07
 ```
+![File](https://github.com/user-attachments/assets/a515b96f-113b-4eee-9ee3-06ec01b4f2bd)
+
 
 ---
 
