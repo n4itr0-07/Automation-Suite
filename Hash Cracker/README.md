@@ -68,6 +68,8 @@ Trying password: password1
 ...
 [+] Found cleartext password: password123
 ```
+![Hash](https://github.com/user-attachments/assets/1114d56b-05b2-4808-a6b8-75fa6057aca3)
+
 
 If the password is not found in the wordlist, you’ll see this message:
 
