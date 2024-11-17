@@ -29,14 +29,14 @@
 
 ### Files
 
-- **`keypress_recorder.py`**: This is the main script that handles the recording and replaying of keystrokes.
+- **`script.py`**: This is the main script that handles the recording and replaying of keystrokes.
 
 ---
 
 ## Usage
 
 1. **Run the Script**:
-   - Open a terminal in the directory where `keypress_recorder.py` is located.
+   - Open a terminal in the directory where `script.py` is located.
    - Run the script with:
      ```bash
      python script.py
