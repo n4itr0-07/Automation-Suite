@@ -24,7 +24,7 @@ More scripts coming soon!
 Clone the repository and install any required dependencies:
 
 ```bash
-git clone https://github.com/n4ftr0-07/Automation-Suite.git
+git clone https://github.com/n4itr0-07/Automation-Suite.git
 cd Automation-Suite
 pip install -r requirements.txt
 ```
